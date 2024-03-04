@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Projects\\ToonTanks\\Source\\ToonTanks\\BasePawn.cpp",
+		"arguments": [
+			"D:\\Software\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\ToonTanks\\Source\\ToonTanks\\BasePawn.h",
+		"arguments": [
+			"D:\\Software\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"arguments": [
+			"D:\\Software\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.cpp",
+		"arguments": [
+			"D:\\Software\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
+		"arguments": [
+			"D:\\Software\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.3\\Engine\\Source"
+	}
+]
